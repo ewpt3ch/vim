@@ -7,7 +7,7 @@ set nocompatible
 " colorscheme
 set background=dark
 colorscheme pencil
-
+let g:airline_theme = 'pencil'
 " display line numbers
 set nu
 
@@ -23,5 +23,5 @@ set shiftwidth=2
 set expandtab
 filetype plugin indent on
 
-" 
+" h
 iabbrev <// </<C-X><C-O>
