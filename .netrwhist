@@ -1,9 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =7
-let g:netrw_dirhist_1='/home/ewpt3ch/devel/fedexcontractmanager/clienttemplates'
-let g:netrw_dirhist_2='/home/ewpt3ch/devel/fedexcontractmanager/clientapp/views'
-let g:netrw_dirhist_3='/home/ewpt3ch/devel/fedexcontractmanager/clientapp/pages'
-let g:netrw_dirhist_4='/home/ewpt3ch/devel/fedexcontractmanager/clientapp/models'
-let g:netrw_dirhist_5='/home/ewpt3ch/devel/fedexManager/clienttests'
-let g:netrw_dirhist_6='/home/ewpt3ch/devel/webapp/client/models'
-let g:netrw_dirhist_7='/home/ewpt3ch/liquidprompt'
